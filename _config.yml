@@ -296,3 +296,5 @@ defaults:
       layout: single
       read_time: false
       author_profile: true
+
+github: [metadata]
