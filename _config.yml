@@ -296,9 +296,6 @@ defaults:
       layout: single
       read_time: false
       author_profile: true
+      
 
-<<<<<<< HEAD
-github: [metadata]
-=======
-theme: jekyll-theme-leap-day
->>>>>>> 42d0bce4105ccadf8ff54dbdf069e19ada7c4bb4
+
