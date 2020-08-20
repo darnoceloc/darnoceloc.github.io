@@ -18,7 +18,7 @@ modified: 2020-04-08
 (In Progress)
 
 ## Presentations
-Cole, C. R., & Scheffe, J.R. (2019). Estimation of Electronic Entropy Contributions to Oxygen Vacancy Formation Reaction in Nonstoichiometric Oxides via analysis of electronic structure properties. Presentation at the
+Cole, C. R. (2019). Estimation of Electronic Entropy Contributions to Oxygen Vacancy Formation Reaction in Nonstoichiometric Oxides via analysis of electronic structure properties. Presentation at the
 Materials Research Society Fall Meeting & Exhibit, Boston, MA.
 
 Cole, C. R., & Scheffe, J.R. (2016). Thermodynamic Characterization of Yttrium Strontium
