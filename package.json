@@ -34,5 +34,8 @@
   "dependencies": {
     "kramdown": "0.0.0",
     "tree-kill": "^1.2.2"
+  },
+  "resolutions": {
+    "tree-kill": "1.2.2"
   }
 }
