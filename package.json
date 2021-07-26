@@ -32,10 +32,7 @@
     "build:js": "npm run uglify && npm run add-banner"
   },
   "dependencies": {
-    "kramdown": "0.0.0",
+    "hosted-git-info": "^4.0.2",
     "tree-kill": "^1.2.2"
-  },
-  "resolutions": {
-    "tree-kill": "1.2.2"
   }
 }
