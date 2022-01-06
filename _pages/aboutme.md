@@ -2,7 +2,7 @@
 permalink: /aboutme/
 title: "About Me"
 
-excerpt: "Conrad Cole is a PhD Candidate in Mechanical Engineering at the University of Florida."
+excerpt: "Conrad Cole recently graduated with a PhD in Mechanical Engineering from the University of Florida."
 layout: single
 author_profile: true
 sitemap: true
@@ -10,7 +10,8 @@ modified: 2019-09-20
 ---
 I was born in Freetown, Sierra Leone but have resided in the United States since 1997. I obtained my B.S. in Mechanical Engineering at the University of Central Florida and was subsequently employed as a Consultant at Booz Allen Hamilton.
 I later pursued a Master's degree in Mechanical Engineering at the University of Florida focusing on Thermal Sciences and Fluid Dynamics. After completing the M.S. degree, I was awarded a Mickey Leland Energy Fellowship via which I interned at the National Energy Technology Laboratory. 
-I have defended my Ph.D. in Mechanical Engineering at UF, investigating entropic properties of complex nonstoichiometric oxides for solar thermochemical energy storage and conversion.  
+I have defended my Ph.D. in Mechanical Engineering at UF, investigating entropic properties of complex nonstoichiometric oxides for solar thermochemical energy storage and conversion. 
+Currently pursuing opportunities in renewables/solar energy technology development, data science and quantitative finance.
 
 
 ## Education
