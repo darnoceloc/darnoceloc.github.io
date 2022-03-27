@@ -10,7 +10,7 @@
     <meta charset="utf-8">
 
 <!-- begin _includes/seo.html --><title>Conrad R. A. Cole</title>
-<meta name="description" content="Doctoral Candidate at the University of Florida in the Department of Mechanical and Aerospace Engineering. ">
+<meta name="description" content="Founder of Radical Energetics, Technincal Consulting Firm in Solar Thermal Energy Technology. ">
 
 
   <meta name="author" content="Conrad R. A. Cole">
@@ -23,7 +23,7 @@
 <meta property="og:url" content="http://localhost:4000/jekyll-rest-api/settings.json">
 
 
-  <meta property="og:description" content="Doctoral Candidate at the University of Florida in the Department of Mechanical and Aerospace Engineering. ">
+  <meta property="og:description" content="Founder of Radical Energetics, Technincal Consulting Firm in Solar Thermal Energy Technology. ">
 
 
 
@@ -168,7 +168,7 @@
     
     
       <div class="author__bio" itemprop="description">
-        <p>Doctoral Candidate at the University of Florida in the Department of Mechanical and Aerospace Engineering.</p>
+        <p>Founder of Radical Energetics, Technincal Consulting Firm in Solar Thermal Energy Technology.</p>
 
       </div>
     
