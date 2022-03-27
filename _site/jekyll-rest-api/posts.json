@@ -9,8 +9,8 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>About Me - Conrad R. A. Cole</title>
-<meta name="description" content="Conrad Cole is in the process of launching Radical Energetics, a Technical Consulting Practice in Solar Thermal Energy Technology. ">
+<!-- begin _includes/seo.html --><title>Conrad R. A. Cole</title>
+<meta name="description" content="Doctoral Candidate at the University of Florida in the Department of Mechanical and Aerospace Engineering. ">
 
 
   <meta name="author" content="Conrad R. A. Cole">
@@ -19,14 +19,11 @@
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Conrad R. A. Cole">
-<meta property="og:title" content="About Me">
-<meta property="og:url" content="http://localhost:4000/aboutme/">
+<meta property="og:title" content="Conrad R. A. Cole">
+<meta property="og:url" content="http://localhost:4000/jekyll-rest-api/posts.json">
 
 
-  <meta property="og:description" content="Conrad Cole is in the process of launching Radical Energetics, a Technical Consulting Practice in Solar Thermal Energy Technology. ">
-
-
-
+  <meta property="og:description" content="Doctoral Candidate at the University of Florida in the Department of Mechanical and Aerospace Engineering. ">
 
 
 
@@ -35,12 +32,15 @@
 
 
 
-  
+
+
 
   
 
+  
 
-<link rel="canonical" href="http://localhost:4000/aboutme/">
+
+<link rel="canonical" href="http://localhost:4000/jekyll-rest-api/posts.json">
 
 
 
@@ -168,7 +168,7 @@
     
     
       <div class="author__bio" itemprop="description">
-        <p>Founder of Radical Energetics, Technical Consulting Practice in Solar Thermal Energy Technology.</p>
+        <p>Doctoral Candidate at the University of Florida in the Department of Mechanical and Aerospace Engineering.</p>
 
       </div>
     
@@ -270,46 +270,24 @@
 
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="About Me">
-    <meta itemprop="description" content="Founder of Radical Energetics, Technical Consulting Practice in Solar Thermal Energy Technology.">
+    
+    
     
     
 
     <div class="page__inner-wrap">
       
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">About Me
-</h1>
+          
           
         </header>
       
 
       <section class="page__content" itemprop="text">
         
-        <p>I was born in Freetown, Sierra Leone but have resided in the United States since 1997. I obtained my B.S. in Mechanical Engineering at the University of Central Florida and was subsequently employed as a Consultant at Booz Allen Hamilton.
-I later pursued a Master’s degree in Mechanical Engineering at the University of Florida focusing on Thermal Sciences and Fluid Dynamics. After completing the M.S. degree, I was awarded a Mickey Leland Energy Fellowship via which I interned at the National Energy Technology Laboratory. Ph.D. graduate in Mechanical Engineering, investigated entropic properties of complex nonstoichiometric oxides for solar thermochemical energy storage and conversion. 
-Currently building Radical Energetics, a Technical Consulting Practice in Solar Thermal Energy Technology. Open to opportunities in renewables/solar energy technology R&D and business development, data science and quantitative finance.</p>
-
-<h2 id="education">Education</h2>
-
-<h3 id="doctor-of-philosophy-mechanical-engineering">Doctor of Philosophy, Mechanical Engineering</h3>
-
-<h4 id="university-of-florida">University of Florida</h4>
-
-<h5 id="august-2014---august-2021">August 2014 - August 2021</h5>
-
-<h3 id="master-of-science-mechanical-engineering">Master of Science, Mechanical Engineering</h3>
-
-<h4 id="university-of-florida-1">University of Florida</h4>
-
-<h5 id="august-2012---may-2014">August 2012 - May 2014</h5>
-
-<h3 id="bachelor-of-science-mechanical-engineering-minor-in-mathematics">Bachelor of Science, Mechanical Engineering (minor in Mathematics)</h3>
-
-<h4 id="university-of-central-florida">University of Central Florida</h4>
-
-<h5 id="august-2005---may-2010">August 2005 - May 2010</h5>
-
+        [
+	
+]
 
         
       </section>

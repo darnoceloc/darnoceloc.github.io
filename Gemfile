@@ -12,9 +12,8 @@ source "http://rubygems.org"
 # gem "github-pages", group: :jekyll_plugins
 
 # To upgrade, run `bundle update`.
-gem "github-pages", group: :jekyll_plugins
 gem "jekyll-remote-theme"
-
+gem 'github-pages', group: :jekyll_plugins
 
 gem "jekyll","~>3.7"
 gem "minimal-mistakes-jekyll"
@@ -26,6 +25,10 @@ gem "jekyll-gist"
 gem "jekyll-feed"
 gem "jekyll-include-cache"
 gem "jekyll-github-metadata"
+gem 'jekyll-seo-tag'
+gem 'jemoji'
+gem 'jekyll-readme-index'
+gem 'webrick'
 #
 # If you have any other plugins, put them here!
 group :jekyll_plugins do

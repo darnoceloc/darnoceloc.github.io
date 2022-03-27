@@ -19,6 +19,9 @@
 <loc>http://localhost:4000/volunteering/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/jekyll-rest-api/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/documents/Conrad_Cole_CV.pdf</loc>
 <lastmod>2021-07-25T21:32:32-04:00</lastmod>
 </url>
