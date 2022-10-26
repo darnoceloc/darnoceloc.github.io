@@ -7,7 +7,7 @@
 <loc>http://localhost:4000/connect/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/research/</loc>
+<loc>http://localhost:4000/consulting/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
@@ -20,9 +20,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/volunteering/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/consulting/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/jekyll-rest-api/</loc>

@@ -13,13 +13,12 @@ Let's connect! Below is my contact information:
 
 ## Contact
 Conrad Cole<br/>
-Herbert Wertheim College of Engineering<br/>
-Department of Mechanical and Aerospace Engineering<br/>
-MAE-A Building<br/>
-PO Box 116250<br/>
-Gainesville, FL 32611<br/>
+Founder at Radical Energetics<br/>
+9200 NW 39th Ave<br/>
+STE 130-3390<br/>
+Gainesville, FL 32606<br/>
 
-Email: [conrad.r.cole@ufl.edu](mailto:conrad.r.cole@ufl.edu)
+Email: [conrad.r.cole@gmail.com](mailto:conrad.r.cole@gmail.com)
 
 
 

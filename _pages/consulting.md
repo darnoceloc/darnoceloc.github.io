@@ -1,5 +1,5 @@
 ---
-permalink: /research/
+permalink: /consulting/
 title: "Consulting"
 
 excerpt: "Conrad Cole Consulting Startup"
