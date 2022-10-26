@@ -14,6 +14,6 @@ Radical Energetics is committed to leveraging innovations in science and enginee
 
 ## Mission
 The ongoing clean, renewable energy transition requires a collaborative effort to be successful, scalable, and sustainable.
-Radical Energetics is on a mission to ensure that new startups, small businesses and existing organizations adapting to the evolving markets are properly equipped to maximize stakeholder interaction, customer adoption and investor engagement.
+Radical Energetics is on a mission to ensure that new startups, small businesses and existing organizations adapting to the evolving markets are properly equipped to maximize stakeholder interaction, customer adoption, and investor engagement.
 Bridging the gap between cutting-edge R&D, innovative business models, commercialization of new products/services, and the end-user to facilitate and optimize the clean, renewable energy transition.
 Leveraging unique expertise in concentrating solar power, high temperature solar thermal chemistry, solar thermal energy conversion and storage and materials science to advise relevant stakeholders for efficient and strategic navigation of modern energy markets.
