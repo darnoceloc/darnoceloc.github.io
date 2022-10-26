@@ -22,6 +22,9 @@
 <loc>http://localhost:4000/volunteering/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/consulting/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/jekyll-rest-api/</loc>
 </url>
 <url>
