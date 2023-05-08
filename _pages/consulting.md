@@ -18,5 +18,5 @@ Radical Energetics is on a mission to ensure that new startups, small businesses
 Bridging the gap between cutting-edge R&D, innovative business models, commercialization of new products/services, and the end-user to facilitate and optimize the clean, renewable energy transition.
 Leveraging unique expertise in concentrating solar power, high temperature solar thermal chemistry, solar thermal energy conversion and storage and materials science to advise relevant stakeholders for efficient and strategic navigation of modern energy markets.
 
-## GoFundMe
-https://gofund.me/e64bea0b
+## Business Website
+https://conradrcole.wixsite.com/radicalenergetics
