@@ -29,6 +29,7 @@ gem 'jekyll-seo-tag'
 gem 'jemoji'
 gem 'jekyll-readme-index'
 gem 'webrick'
+gem 'resolv'
 #
 # If you have any other plugins, put them here!
 group :jekyll_plugins do
